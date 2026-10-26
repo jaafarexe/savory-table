@@ -1,0 +1,6 @@
+{
+  "name": "Savory Table",
+  "description": "Artisanal restaurant ordering experience with table service, home delivery, crafted seasonal menus, and live order status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
